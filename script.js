@@ -12,7 +12,7 @@ if (url.searchParams.get('by') != null) {
 
 let footer = document.getElementById("credit");
 footer.innerHTML = sender;
-footer.href = "https://www.instagram.com/arip404_/";
+footer.href = "https://wa.me/6287776101997?text=Hi%20aku%20mencintaimu%20hehe";
 
 document.querySelector(".tombol").addEventListener('click', function () {
   Swal.fire("Hallo Sayangku", "Aku ada pertanyaan nih buat kamu?", "question").then(function () {
